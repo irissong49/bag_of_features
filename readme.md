@@ -1,3 +1,5 @@
+A basic implementation for bag of features/bag of word CV version.
+
 This code is written in jupyter notebook. Aiming at (1)easy to make changes and (2) convinient to have a shallow try on this algorithm. So I won't be adapting it into an executable file.
 
 

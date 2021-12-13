@@ -19,4 +19,4 @@ Current code is a very basic version. Things could be improved:
 1. Add preprocess to images. Also argumentation.
 2. Add more selections for other feature discriptor(e.g. SURF)
 3. Current code cannot afford large dataset since sklearn cluster is super slow. I do have a draft version using Yinyang Kmeans with GPU(https://github.com/src-d/kmcuda) but not very sure about how to merge it into the system.
-4. Please tell me what else could be improved.
+4. Collect and refactor public parameters. Assign them at the beginning of jupyternotebook
